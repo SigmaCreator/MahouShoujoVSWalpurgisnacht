@@ -1,0 +1,11 @@
+3;Sayaka;8;17;120;100;
+2;Homura;14;3;100;100;
+3;Sayaka;6;0;150;100;
+5;Kyoko;9;3;100;100;
+8;Walpurgisnacht;14;18;200;0;
+7;NormalWitch;15;17;20;0;
+7;NormalWitch;10;17;100;0;
+7;NormalWitch;19;12;100;0;
+7;NormalWitch;2;18;100;0;
+7;NormalWitch;19;3;100;0;
+7;NormalWitch;11;18;50;0;

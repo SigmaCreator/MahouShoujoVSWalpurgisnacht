@@ -1,0 +1,50 @@
+As Mahou Shoujo são garotas comuns que receberam poderes mágicos
+ de uma entidade chamada Incubator, mas elas puderam manter
+ essas habilidades com a condição de que lutassem contra
+ espiritos malignos chamados Bruxas, assim protegendo o mundo
+ desses seres.
+
+As 6 personagens em que a história foca são Mami, Kyoko, Homura, 
+Sayaka, Nagisa e Madoka. Cada uma possui cores que as definem e 
+status especiais em combate, cada uma com Alcance, Barras de 
+Vida e Barras de Pureza diferentes. A Barra de Pureza é um 
+atributo que controla a pureza das Mahou Shoujo com relação ao 
+uso de seus poderes, toda vez que elas atacam, sua Barra de 
+Pureza desce, mas se matarem uma bruxa, elas recuperam Pureza. 
+Caso essa barra chegue a zero, elas sucumbem à escuridão e viram
+ bruxas.
+
+Mami, a amarela, possui alcance de 4 espaços, 100 Pontos de Vida e 
+100 Pontos de Pureza.
+
+Kyoko, a vermelha, possui possui alcance de 2 espaços, 150 Pontos 
+de Vida e 100 Pontos de Pureza.
+
+Homura, a preta, possui alcance de 3 espaços, 150 Pontos de Vida e 
+100 Pontos de Pureza.
+
+Sayaka, a azul, possui alcance de 1 espaços, 200 Pontos de Vida e 
+100 Pontos de Pureza.
+
+Nagisa, a branca, possui alcance de 3 espaços, 100 Pontos de Vida 
+e 90 Pontos de Pureza.
+
+Madoka, a rosa, possui alcance de 5 espaços, 100 Pontos de Vida e 
+200 Pontos de Pureza. Ela é a mais importante das Mahou Shoujo, 
+caso ela morra ou se torne Bruxa, a simulação acaba e as Bruxas 
+ganham.
+
+No caso das Bruxas, elas possuem Alcance e Pontos de Vida 
+diferentes:
+
+Bruxa comum, possui alcance de 3 espaços e 100 Pontos de Vida.
+
+Oktavia von Seckendorff, nasce ao Sayaka tornar-se uma Bruxa, 
+possui alcance de 5 espaços e 100 Pontos de Vida.
+
+Charlotte, nasce ao Nagisa tornar-se uma Bruxa, possui alcance 
+de 3 espaços e 150 Pontos de Vida.
+
+Walpurgisnacht, é a Bruxa mais forte, possui alcance de 4 
+espaços e 250 Pontos de Vida, caso morra, a vitória das Mahou 
+Shoujo é confirmada.

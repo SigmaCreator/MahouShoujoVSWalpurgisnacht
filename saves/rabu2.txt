@@ -1,0 +1,10 @@
+1;Madoka;0;0;100;100;
+3;Sayaka;0;1;150;100;
+4;Bebe;1;0;100;100;
+2;Homura;1;1;100;100;
+5;Kyoko;0;2;150;100;
+6;Mami;2;1;100;100;
+8;Walpurgisnacht;19;18;200;0;
+7;NormalWitch;9;12;100;0;
+7;NormalWitch;9;13;100;0;
+7;NormalWitch;18;11;100;0;
